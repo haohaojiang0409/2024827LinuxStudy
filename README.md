@@ -9,8 +9,6 @@ abcdabc --->  abc
 aaaaaaa--> aaaaaa
 
 #### 2.字符串的增删改查
-
-```
 string str1; //生成空字符串
 |函数名|用途|代码|
 |--:|:--:|:--|
